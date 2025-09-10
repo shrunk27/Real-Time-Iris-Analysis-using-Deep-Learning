@@ -121,5 +121,5 @@ Shrunkhala S
 
 - 💼 Data Science | Computer Vision | Deep Learning
 
-🔗 LinkedIn
- | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/shrunkhalasandeepsisodia/)
+ | [GitHub](https://github.com/shrunk27)
