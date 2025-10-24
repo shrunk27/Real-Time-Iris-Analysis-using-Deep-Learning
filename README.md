@@ -31,15 +31,13 @@ This system captures images via webcam, detects eyes, extracts iris regions, ana
 - **Visualization Dashboard** – Side-by-side plots of original images, segmented iris regions, color swatches, and feature comparisons.
 
 # 📂 Project Structure
+```graphql
 ├── "Real Time Iris Analysis with Deep learning.py"   # Main script
-
 ├── models/                     # Pre-trained/temporary models
-
-│       └── shape_predictor_68_face_landmarks.dat (required)
-
+│        └── shape_predictor_68_face_landmarks.dat (required)
 ├── data/                       # Placeholder for captured/processed data
-
 └── README.md                   # Project documentation
+```
 
 # 🛠️ Tech Stack
 
